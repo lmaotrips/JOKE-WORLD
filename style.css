@@ -1,0 +1,17 @@
+html.body{
+    height: 100%;
+    width: 100%;
+
+}
+
+
+#joke{
+    background-color: aliceblue;
+    color: #333;
+    font-size: 1.5em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+
